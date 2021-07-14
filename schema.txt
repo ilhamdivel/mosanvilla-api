@@ -1,15 +1,18 @@
 category : {
+    id  : ObjectId
     name : string
 }
 
 image : {
+    id : ObjectId
     imageUrl : string
 }
 
 item : {
+    id : ObjectId
     title : string,
     price : number,
-    country : string,
+    province : string,
     city : string,
     isPopular : boolean,
     description : string,
@@ -19,6 +22,7 @@ item : {
 }
 
 feature : {
+    id : ObjectId
     name : string,
     qty : number,
     imageUrl: string,
@@ -34,6 +38,7 @@ activity : {
 }
 
 booking : {
+    id : ObjectId 
     bookingStartDate : date,
     bookingEndDate : date,
     itemId : [{
@@ -52,6 +57,7 @@ booking : {
 }
 
 member : {
+    id: ObjectId
     firstName : string,
     lastName : string,
     email : string,
@@ -59,7 +65,15 @@ member : {
 }
 
 bank : {
+    id : ObjectId
     nameBank : string,
     NomorRekening : string,
-    name : string
+    name : string,
+    imageUrl
+}
+
+admin : {
+    id : ObjectId
+    username    : string,
+    password    : string
 }
