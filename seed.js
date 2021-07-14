@@ -100,7 +100,7 @@ var data = [
         city: "Bukittinggi",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -147,7 +147,7 @@ var data = [
         city: "Pesisir Selatan",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -194,7 +194,7 @@ var data = [
         city: "Harau",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+          "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -241,7 +241,7 @@ var data = [
         city: "Payakumbuh",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -288,7 +288,7 @@ var data = [
         city: "Bukittinggi",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -335,7 +335,7 @@ var data = [
         city: "Padang",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -382,7 +382,7 @@ var data = [
         city: "Solok",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -429,7 +429,7 @@ var data = [
         city: "Padang",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -476,7 +476,7 @@ var data = [
         city: "Agam",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -523,7 +523,7 @@ var data = [
         city: "Lubuk Basung",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -570,7 +570,7 @@ var data = [
         city: "Bukittinggi",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           // done
@@ -617,7 +617,7 @@ var data = [
         city: "K.Mentawai",
         isPopular: false,
         description:
-          "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.",
+        "Villa-villa banyak yang menyediakan fasilitas hiburan seperti taman bermain anak-anak, danau pemancingan, taman-taman yang indah, fasilitas olahraga dan sarana rekreasi, serta memiliki peralatan dalam villa yang lengkap layak nya rumah anda.Pembangunan villa banyak berkembang di daerah puncak dan kawasan pegunungan lainnya dikarenakan iklim nya yang sejuk dan berhawa segar namun dekat oleh perjalanan mobil dari ibu kota. Di daerah puncak terkenal dengan hawanya yang sejuk, iklim matahari nya yang hangat, jauh dari kebisingan serta ketenangan alamnya yang indah.",
         unit: "malam",
         imageId: [
           { _id: mongoose.Types.ObjectId("5e96cbe292b97300fc90cd36") },
